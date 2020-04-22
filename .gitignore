@@ -2,3 +2,8 @@
 *.DS_Store
 .idea/
 pubspec.lock
+.packages
+build/
+.dart_tool/
+.gradle/
+*.aab
